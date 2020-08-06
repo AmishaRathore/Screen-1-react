@@ -1,0 +1,156 @@
+.border{
+    border-bottom:1px solid black;
+}
+.Aborder{
+    border-top:1px solid black;
+    border-bottom:1px solid black;
+}
+.borderA{
+    border-right: 1px solid black;
+    border-left:1px solid black ;
+    border-bottom:1px solid black;
+}
+.nav{
+    margin-top: 0px;
+    margin-left: 20%;
+    height:10%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+.font{
+    font-size: 15px;
+    margin-top: 8px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.upperBlock{
+    border: 1px solid black;
+    width: 90%;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 70%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.lowerBlock{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 30%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.innerUpper{
+    margin-top: 2%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.innerLower{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.attach{
+    font-size: 17px;
+    margin-left:30px;
+    margin-top: 5px;
+    font-weight:bolder;
+}
+.calendar{
+    margin-top: -5px;
+    font-size: 24px;
+    float: right;
+}
+.input1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+.input2{
+    width: 100%;
+    height: 150px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+.imageTitle{
+    font-size: 15px;
+    display: inline;
+    margin-right: 60px;
+}
+.videoTitle{
+    font-size: 15px;
+    display: inline;
+}
+.icon{
+    font-size: 48px;
+    margin-left: 20px;
+}
+.vicon{
+    font-size: 48px;
+    margin-left: 48px;
+}
+.deleteIconImage{
+    font-size: 15px;
+    background-color: gray;
+    margin-left: 48px;
+    margin-right:48px;
+}
+.deleteIconVideo{
+    font-size: 15px;
+    background-color: gray;
+}
+.innerBottom{
+    margin-top: 2%;
+    margin-left: 3%;
+    margin-right: 3%;
+    height: 100%;
+}
+.micro{
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 24px;
+}
+.carema{
+    margin-left:12%;
+    font-size: 24px;
+}
+.image{
+    font-size: 24px;
+}
+.cameraTitle{
+    margin-left:2%;
+    font-size: 12px;
+    display: inline;
+}
+.voiceTitle
+{
+    font-size: 12px;
+    display: inline;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.Title{
+    font-size: 12px;
+    display: inline;
+}
+.button{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    color: #7E858E;
+    border-color:#7E858E ;
+}
+.date{
+    font-size: 15px;
+    margin-right: 5px;
+}
+@media only screen and (max-width: 413px){
+    .voiceTitle
+    {
+        font-size: 12px;
+        display: inline;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+}
